@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-server-apache-service
+spec:
+  selector:
+    app: web-server-apache
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+  type: NodePort # 或 ClusterIP 根據需要

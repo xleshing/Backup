@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: web-server
+  template:
+    metadata:
+      labels:
+        app: web-server
+    spec:
+      nodeName: master
+      containers:
+      - name: nginx
+        image: ycair/icanlab-web-server:latest
+        ports:
+        - containerPort: 80
+        volumeMounts:
+        - mountPath: /usr/share/nginx/html
+          name: web-content-volume
+
+      volumes:
+      - name: web-content-volume
+        persistentVolumeClaim:
+          claimName: web-content-pvc

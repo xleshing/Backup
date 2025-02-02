@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-scaler
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: node-scaler
+  template:
+    metadata:
+      labels:
+        app: node-scaler
+    spec:
+      nodeName: master
+      serviceAccountName: node-scaler-sa
+      containers:
+        - name: node-scaler
+          image: ycair/node-scaler:latest
+          command: ["python3", "/app/main.py"]
+          args: ["--capacity", "60", "--max_calculate_times", "25"]
+          volumeMounts:
+            - name: node-scaler-volume
+              mountPath: /app
+      volumes:
+        - name: node-scaler-volume
+          persistentVolumeClaim:
+            claimName: node-scaler-pvc

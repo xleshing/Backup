@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>上海交流研習活動同意書</title>
+  <style>
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    canvas {
+      border: 1px solid #000;
+      touch-action: none;
+    }
+    .controls {
+      margin-top: 10px;
+    }
+    button {
+      margin: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+    .spinner {
+      display: none;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #3498db;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    h1 {
+      text-align: center;
+    }
+    .form-container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .form-section {
+      margin-top: 20px;
+    }
+    .form-section p {
+      text-indent: 2em;
+    }
+    .input-field {
+      display: block;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+    .input-label {
+      font-weight: bold;
+    }
+
+    .signature-section {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+  </style>
+</head>
+<body>
+<h1>東海大學【2025年度上海交流研習活動-首來族來瀚】</h1>
+<div class="form-container">
+  <p><strong>學生確認暨家長（監護人）同意書</strong></p>
+
+  <div class="form-section">
+    <label class="input-label" for="student-name">本人姓名：</label>
+    <input class="input-field" type="text" id="student-name" name="student-name">
+
+    <label class="input-label" for="department">系所：</label>
+    <input class="input-field" type="text" id="department" name="department">
+
+    <label class="input-label" for="grade">年級學生（學號）：</label>
+    <input class="input-field" type="text" id="grade" name="grade">
+  </div>
+
+  <div class="form-section">
+    <p>申請上海地區五天四夜交流，活動名稱：<strong>2025年度上海交流研習活動-首來族來瀚</strong></p>
+    <p>交流期間自西元<strong>2025 年 6 月至西元 2025 年 7 月初</strong>（時間確認中）</p>
+  </div>
+
+  <div class="form-section">
+    <p><strong>針對以下聲明與說明，本人願遵守並自負責任：</strong></p>
+    <ol>
+      <li>本人願意保證自身健康狀況可負擔此次活動之進行；如有生、心理不適合進行狀況，願自動放棄參加，並依個人狀況自行辦理旅行平安保險，並於出發前統一繳交保險證明。</li>
+      <li>學生活動期間若發生時間衝突，至活動報名表單填寫並傳授家長或監護人同意書，未上傳同意書者將不被錄取報名；請於不同意書上載前留存為日後再次活動備存事項。</li>
+      <li>於<strong>2025/01/03</strong>前繳交錄取報名後，請同學報名後，如非不可抗力之因素進行臨時放棄，共同診榻研習費以完成初設義務繳交核價。</li>
+      <li>海內交流活動或經海文學習完成通識學習，匯報出、報告點、不賠償終止部分情況，活動期間仍需維持交規體溫安全管教責任並執規配足。</li>
+      <li>其他未盡事項，得依本校相關規範辦理。</li>
+    </ol>
+  </div>
+
+  <div class="form-section">
+    <p>上傳報名表：<a href="https://form2.thu.edu.tw/4121427">https://form2.thu.edu.tw/4121427</a></p>
+  </div>
+</div>
+
+<div class="signature-section">
+  <h2>家長（監護人）簽名</h2>
+  <canvas id="signatureCanvas" width="500" height="300"></canvas>
+  <div class="controls">
+    <button id="clearButton">清除</button>
+    <button id="uploadButton">確認</button>
+  </div>
+  <div id="spinner" class="spinner"></div>
+</div>
+
+<script>
+  const canvas = document.getElementById('signatureCanvas');
+  const ctx = canvas.getContext('2d');
+  const clearButton = document.getElementById('clearButton');
+  const uploadButton = document.getElementById('uploadButton');
+  const spinner = document.getElementById('spinner');
+
+  let isDrawing = false;
+  let lastX = 0;
+  let lastY = 0;
+  let isUploading = false;
+
+  // Set line width for thicker strokes
+  ctx.lineWidth = 5;
+  ctx.lineCap = 'round';
+
+  // Mouse events for drawing
+  canvas.addEventListener('mousedown', (e) => {
+    if (isUploading) return;
+    isDrawing = true;
+    [lastX, lastY] = [e.offsetX, e.offsetY];
+  });
+
+  canvas.addEventListener('mousemove', (e) => {
+    if (!isDrawing || isUploading) return;
+    ctx.beginPath();
+    ctx.moveTo(lastX, lastY);
+    ctx.lineTo(e.offsetX, e.offsetY);
+    ctx.stroke();
+    [lastX, lastY] = [e.offsetX, e.offsetY];
+  });
+
+  canvas.addEventListener('mouseup', () => isDrawing = false);
+  canvas.addEventListener('mouseout', () => isDrawing = false);
+
+  // Touch events for drawing
+  canvas.addEventListener('touchstart', (e) => {
+    if (isUploading) return;
+    isDrawing = true;
+    const rect = canvas.getBoundingClientRect();
+    const touch = e.touches[0];
+    lastX = touch.clientX - rect.left;
+    lastY = touch.clientY - rect.top;
+  });
+
+  canvas.addEventListener('touchmove', (e) => {
+    if (!isDrawing || isUploading) return;
+    e.preventDefault();
+    const rect = canvas.getBoundingClientRect();
+    const touch = e.touches[0];
+    const x = touch.clientX - rect.left;
+    const y = touch.clientY - rect.top;
+    ctx.beginPath();
+    ctx.moveTo(lastX, lastY);
+    ctx.lineTo(x, y);
+    ctx.stroke();
+    lastX = x;
+    lastY = y;
+  });
+
+  canvas.addEventListener('touchend', () => isDrawing = false);
+  canvas.addEventListener('touchcancel', () => isDrawing = false);
+
+  // Clear canvas
+  clearButton.addEventListener('click', () => {
+    if (isUploading) return;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+  });
+
+  // Upload signature to server
+  uploadButton.addEventListener('click', async () => {
+    if (isUploading) return;
+    isUploading = true;
+    uploadButton.disabled = true;
+    clearButton.disabled = true;
+    spinner.style.display = 'block';
+
+    const dataURL = canvas.toDataURL('image/png');
+    try {
+      const response = await fetch('api/upload-signature', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ signature: dataURL })
+      });
+
+      if (response.ok) {
+        alert('已送出');
+      } else {
+        alert('送出失敗');
+      }
+    } catch (error) {
+      console.error('送出失敗:', error);
+      alert('送出失敗');
+    } finally {
+      isUploading = false;
+      uploadButton.disabled = false;
+      clearButton.disabled = false;
+      spinner.style.display = 'none';
+    }
+  });
+</script>
+</body>
+</html>

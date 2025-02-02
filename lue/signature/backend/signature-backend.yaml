@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: signature-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: signature-backend
+  template:
+    metadata:
+      labels:
+        app: signature-backend
+    spec:
+      containers:
+      - name: signature-backend
+        image: ycair/signature-pad-backend
+
+        ports:
+        - containerPort: 5000
+        volumeMounts:
+        - mountPath: /app
+          name: signature-backend-volume
+      volumes:
+      - name: signature-backend-volume
+        persistentVolumeClaim:
+          claimName: signature-backend-pvc 
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: signature-backend
+spec:
+  ports:
+  - port: 5000
+    targetPort: 5000
+  selector:
+    app: signature-backend

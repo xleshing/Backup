@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webhook-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webhook-server
+  template:
+    metadata:
+      labels:
+        app: webhook-server
+    spec:
+      securityContext:  
+        runAsUser: 1000
+        runAsGroup: 1000
+        fsGroup: 1000
+      nodeName: master
+      containers:
+      - name: webhook-server
+        image: ycair/icanlab-web-webhook:latest
+        ports:
+        - containerPort: 5000
+        securityContext:
+          runAsUser: 1000   # 以 UID 1000 運行
+          runAsGroup: 1000  # 以 GID 1000 運行
+        volumeMounts:
+        - mountPath: /mnt
+          name: web-content-volume
+      volumes:
+      - name: web-content-volume
+        persistentVolumeClaim:
+          claimName: web-content-pvc

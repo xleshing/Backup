@@ -1,0 +1,2406 @@
+Epoch [1/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 1/5, 平均损失: 0.0853
+Epoch [2/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 2/5, 平均损失: 0.0697
+Epoch [3/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 3/5, 平均损失: 0.0614
+Epoch [4/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 4/5, 平均损失: 0.0528
+Epoch [5/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 5/5, 平均损失: 0.0472
+训练完成
+Epoch [1/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 1/5, 平均损失: 0.9835
+Epoch [2/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 2/5, 平均损失: 0.3042
+Epoch [3/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 3/5, 平均损失: 0.1784
+Epoch [4/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 4/5, 平均损失: 0.1211
+Epoch [5/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 5/5, 平均损失: 0.0940
+训练完成
+Epoch [1/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 1/5, 平均损失: 0.9304
+Epoch [2/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 2/5, 平均损失: 0.3029
+Epoch [3/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 3/5, 平均损失: 0.1780
+Epoch [4/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 4/5, 平均损失: 0.1200
+Epoch [5/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 5/5, 平均损失: 0.0897
+训练完成
+测试准确率: 97.54%
+Epoch [1/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [1/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 1/5, 平均损失: 1.0090
+Epoch [2/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [2/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 2/5, 平均损失: 0.3259
+Epoch [3/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [3/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 3/5, 平均损失: 0.1792
+Epoch [4/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [4/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 4/5, 平均损失: 0.1222
+Epoch [5/5], Current batch index: 1, Total batches: 59
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 2, Total batches: 59
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 3, Total batches: 59
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 4, Total batches: 59
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 5, Total batches: 59
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 6, Total batches: 59
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 7, Total batches: 59
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 8, Total batches: 59
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 9, Total batches: 59
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 10, Total batches: 59
+Batch 9: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 11, Total batches: 59
+Batch 10: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 12, Total batches: 59
+Batch 11: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 13, Total batches: 59
+Batch 12: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 14, Total batches: 59
+Batch 13: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 15, Total batches: 59
+Batch 14: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 16, Total batches: 59
+Batch 15: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 17, Total batches: 59
+Batch 16: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 18, Total batches: 59
+Batch 17: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 19, Total batches: 59
+Batch 18: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 20, Total batches: 59
+Batch 19: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 21, Total batches: 59
+Batch 20: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 22, Total batches: 59
+Batch 21: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 23, Total batches: 59
+Batch 22: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 24, Total batches: 59
+Batch 23: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 25, Total batches: 59
+Batch 24: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 26, Total batches: 59
+Batch 25: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 27, Total batches: 59
+Batch 26: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 28, Total batches: 59
+Batch 27: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 29, Total batches: 59
+Batch 28: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 30, Total batches: 59
+Batch 29: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 31, Total batches: 59
+Batch 30: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 32, Total batches: 59
+Batch 31: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 33, Total batches: 59
+Batch 32: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 34, Total batches: 59
+Batch 33: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 35, Total batches: 59
+Batch 34: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 36, Total batches: 59
+Batch 35: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 37, Total batches: 59
+Batch 36: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 38, Total batches: 59
+Batch 37: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 39, Total batches: 59
+Batch 38: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 40, Total batches: 59
+Batch 39: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 41, Total batches: 59
+Batch 40: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 42, Total batches: 59
+Batch 41: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 43, Total batches: 59
+Batch 42: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 44, Total batches: 59
+Batch 43: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 45, Total batches: 59
+Batch 44: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 46, Total batches: 59
+Batch 45: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 47, Total batches: 59
+Batch 46: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 48, Total batches: 59
+Batch 47: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 49, Total batches: 59
+Batch 48: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 50, Total batches: 59
+Batch 49: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 51, Total batches: 59
+Batch 50: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 52, Total batches: 59
+Batch 51: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 53, Total batches: 59
+Batch 52: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 54, Total batches: 59
+Batch 53: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 55, Total batches: 59
+Batch 54: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 56, Total batches: 59
+Batch 55: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 57, Total batches: 59
+Batch 56: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 58, Total batches: 59
+Batch 57: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Epoch [5/5], Current batch index: 59, Total batches: 59
+Batch 58: Inputs shape torch.Size([608, 1, 28, 28]), Labels shape torch.Size([608])
+Epoch 5/5, 平均损失: 0.0920
+训练完成
+Current batch index: 1, Total batches: 10
+Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 2, Total batches: 10
+Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 3, Total batches: 10
+Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 4, Total batches: 10
+Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 5, Total batches: 10
+Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 6, Total batches: 10
+Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 7, Total batches: 10
+Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 8, Total batches: 10
+Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 9, Total batches: 10
+Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+Current batch index: 10, Total batches: 10
+Batch 9: Inputs shape torch.Size([784, 1, 28, 28]), Labels shape torch.Size([784])
+测试准确率: 97.59%

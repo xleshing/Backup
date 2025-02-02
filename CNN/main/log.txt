@@ -1,0 +1,21 @@
+2024-12-29 14:02:16,836 - Current batch index: 1, Total batches: 10
+2024-12-29 14:02:16,836 - Batch 0: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:02:41,960 - Current batch index: 2, Total batches: 10
+2024-12-29 14:02:41,960 - Batch 1: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:03:06,816 - Current batch index: 3, Total batches: 10
+2024-12-29 14:03:06,816 - Batch 2: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:03:31,954 - Current batch index: 4, Total batches: 10
+2024-12-29 14:03:31,954 - Batch 3: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:03:56,969 - Current batch index: 5, Total batches: 10
+2024-12-29 14:03:56,969 - Batch 4: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:04:21,938 - Current batch index: 6, Total batches: 10
+2024-12-29 14:04:21,938 - Batch 5: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:04:47,155 - Current batch index: 7, Total batches: 10
+2024-12-29 14:04:47,155 - Batch 6: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:05:12,279 - Current batch index: 8, Total batches: 10
+2024-12-29 14:05:12,279 - Batch 7: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:05:37,655 - Current batch index: 9, Total batches: 10
+2024-12-29 14:05:37,655 - Batch 8: Inputs shape torch.Size([1024, 1, 28, 28]), Labels shape torch.Size([1024])
+2024-12-29 14:06:02,770 - Current batch index: 10, Total batches: 10
+2024-12-29 14:06:02,770 - Batch 9: Inputs shape torch.Size([784, 1, 28, 28]), Labels shape torch.Size([784])
+2024-12-29 14:06:21,859 - 测试准确率: 97.59%
